@@ -3,27 +3,48 @@ import React from "react";
 const ExperienceSec = () => {
   const experiences = [
     {
-      year: "2020-2025",
-      title: "DevOps Engineer",
-      company: "Vieaura Inc",
+      year: "2024-Current",
+      title: "Full Stack Engineer",
+      company: "BeamNG GmbH",
       type: "Remote",
       description:
-        "Built automated CI/CD pipelines, managed scalable Kubernetes clusters on GCP, implemented monitoring and logging, and streamlined workflows through Jira and infrastructure automation to support OPTRIX’s intelligent, real-time operational platform.",
+        "Led full-stack development at BeamNG, delivering scalable backend services, modern UI tooling, CI/CD-driven reliability improvements, and integrations supporting the real-time physics engine and online ecosystem.",
     },
     {
-      year: "2018-2020",
-      title: "Software Engineer",
-      company: "RevBits LLC",
+      year: "2023-2024",
+      title: "Web3 & NFT Developer",
+      company: "SpaceFi",
       type: "Remote",
       description:
-        "Developed security product features in Python and Java, optimized backend components, translated penetration-testing findings into product improvements, and ensured software reliability through code reviews, debugging, and testing across RevBits’ CIP/XDR, Email Security, EDR, and Zero Trust platforms.",
+        "Designed gas-efficient smart contracts and full-stack Web3 features for SpaceFi's DEX, NFT marketplace, Spacebase, and Launchpad on zkSync, while improving DeFi mechanics, security, and blockchain interaction workflows.",
     },
     {
-      year: "2017-2018",
-      title: "Full Stack Software Developer",
-      company: "EBQ",
-      type: "Fulltime",
-      description: "Developed backend systems in Java and Python, built APIs and databases for dynamic content, integrated internal services to improve operations, and collaborated with teams to deliver features and optimize performance.",
+      year: "2020-2023",
+      title: "Smart Contract Developer",
+      company: "SpaceFi",
+      type: "Remote",
+      description: "Built secure, modular, and gas-efficient Layer-2 contracts for SpaceFi's DeFi, NFT, and Launchpad features with full testing, auditing, and frontend integration.",
+    },
+    {
+      year: "2017-2020",
+      title: "Full Stack Developer",
+      company: "Skyrus",
+      type: "On-site",
+      description: "Built Skyrus' token swap, exchange modules, APIs, and full-stack interfaces with secure backend services, blockchain integrations, and optimized trading UX for a scalable crypto platform.",
+    },
+    {
+      year: "2014-2016",
+      title: "Unity Game Developer",
+      company: "Kurechii Studio",
+      type: "On-site",
+      description: "Developed core gameplay systems and Unity C# features for Postknight 2, optimizing mobile performance while collaborating with cross-disciplinary teams to deliver polished, production-ready content.",
+    },
+    {
+      year: "2012-2014",
+      title: "Mobile App Developer",
+      company: "StarHub Limited",
+      type: "On-site",
+      description: "Supported the development and maintenance of StarHub's mobile apps by building UI components, integrating basic features, fixing bugs, and assisting senior engineers across both iOS and Android projects.",
     },
   ];
 
