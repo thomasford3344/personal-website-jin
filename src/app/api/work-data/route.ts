@@ -2,16 +2,28 @@ import { NextResponse } from "next/server";
 
 const workData = [
     {
-        image: "/images/work/vieaura_optrix_platform.png",
-        title: "OPTRIX Platform",
-        company: "Vieaura Inc.",
-        slug: "https://vieaura.com/what-we-do"
+        image: "/images/work/BeamNG GmbH.jpg",
+        title: "Driving Simulation",
+        company: "BeamNG GmbH",
+        slug: "https://beamng.tech"
     },
     {
-        image: "/images/work/cip_graphic.png",
-        title: "Cyber Intelligence Platform",
-        company: "RevBits LLC",
-        slug: "https://revbits.com/cyber-intelligence-platform"
+        image: "/images/work/SpaceFi.png",
+        title: "SpaceFi NFT Staking",
+        company: "SpaceFi",
+        slug: "https://www.spacefi.io/Staking"
+    },
+    {
+        image: "/images/work/Kurechii Studio.png",
+        title: "Postknight 2",
+        company: "Kurechii Studio",
+        slug: "https://postknight.com"
+    },
+    {
+        image: "/images/work/StarHub Limited.png",
+        title: "giga!",
+        company: "StarHub Limited",
+        slug: "https://play.google.com/store/apps/details?id=com.starhub.giga"
     }
 ];
 
