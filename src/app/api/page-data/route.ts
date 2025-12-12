@@ -66,6 +66,111 @@ const educationData = {
       rating: 5
     },
     {
+      name: "Reactjs",
+      icon: "/images/home/education-skill/reactjs-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Nextjs",
+      icon: "/images/home/education-skill/nextjs-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Nodejs",
+      icon: "/images/home/education-skill/nodejs-icon.svg",
+      rating: 5
+    },   
+    {
+      name: "MySQL",
+      icon: "/images/home/education-skill/mysql-icon.svg",
+      rating: 5
+    },
+    {
+      name: "MongoDB",
+      icon: "/images/home/education-skill/mongodb-icon.svg",
+      rating: 5
+    },    
+    {
+      name: "RESTful & GraphQL",
+      icon: "/images/home/education-skill/graphql-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Blockchain",
+      icon: "/images/home/education-skill/blockchain-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Solidity",
+      icon: "/images/home/education-skill/solidity-icon.svg",
+      rating: 5
+    },
+    {
+      name: "EVM",
+      icon: "/images/home/education-skill/evm-icon.svg",
+      rating: 5
+    },  
+    {
+      name: "Web3",
+      icon: "/images/home/education-skill/web3-icon.svg",
+      rating: 5
+    },
+    {
+      name: "DeFi",
+      icon: "/images/home/education-skill/defi-icon.svg",
+      rating: 5
+    },
+    {
+      name: "NFT",
+      icon: "/images/home/education-skill/nft-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Android",
+      icon: "/images/home/education-skill/android-icon.svg",
+      rating: 5
+    },
+    {
+      name: "iOS",
+      icon: "/images/home/education-skill/ios-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Flutter",
+      icon: "/images/home/education-skill/flutter-icon.svg",
+      rating: 5
+    },    
+    {
+      name: "Unity",
+      icon: "/images/home/education-skill/unity-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Photon",
+      icon: "/images/home/education-skill/photon-icon.svg",
+      rating: 5
+    },    
+    {
+      name: "C#",
+      icon: "/images/home/education-skill/csharp-icon.svg",
+      rating: 5
+    }, 
+    {
+      name: "Javascript",
+      icon: "/images/home/education-skill/javascript-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Python",
+      icon: "/images/home/education-skill/python-icon.svg",
+      rating: 5
+    },
+    {
+      name: "Go",
+      icon: "/images/home/education-skill/go-icon.svg",
+      rating: 5
+    },
+    {
       name: "AWS",
       icon: "/images/home/education-skill/aws-icon.svg",
       rating: 4
@@ -138,21 +243,6 @@ const educationData = {
     {
       name: "Agile/Scrum",
       icon: "/images/home/education-skill/agile-scrum-icon.svg",
-      rating: 5
-    },
-    {
-      name: "Python",
-      icon: "/images/home/education-skill/python-icon.svg",
-      rating: 5
-    },
-    {
-      name: "Java",
-      icon: "/images/home/education-skill/java-icon.svg",
-      rating: 4
-    },
-    {
-      name: "Nodejs",
-      icon: "/images/home/education-skill/nodejs-icon.svg",
       rating: 5
     }
   ]
