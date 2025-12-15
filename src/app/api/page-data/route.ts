@@ -5,16 +5,22 @@ const contactBar = {
   contactItems: [
     {
       type: "email",
-      label: "jinge627@outlook.com",
+      label: "seniordev911@gmail.com",
       icon: "/images/icon/mail-icon.svg",
-      link: "mailto:jinge627@outlook.com"
+      link: "mailto:seniordev911@gmail.com"
     },
     {
-      type: "phone",
-      label: "+65 xxxx-xxxx",
+      type: "telegram",
+      label: "@seniordev911",
       icon: "/images/icon/call-icon.svg",
-      link: "tel:+65xxxxxxxx"
+      link: "https://t.me/seniordev911"
     },
+    // {
+    //   type: "phone",
+    //   label: "+65 xxxx-xxxx",
+    //   icon: "/images/icon/call-icon.svg",
+    //   link: "tel:+65xxxxxxxx"
+    // },
     {
       type: "website",
       label: "www.jingejin.com",
@@ -266,14 +272,19 @@ const contactLinks = {
   contactInfo: [
     {
       type: "email",
-      label: "jinge627@outlook.com",
-      link: "mailto:jinge627@outlook.com"
+      label: "seniordev911@gmail.com",
+      link: "mailto:seniordev911@gmail.com"
     },
     {
-      type: "phone",
-      label: "+65 xxxx-xxxx",
-      link: "tel:+65xxxxxxxx"
-    }
+      type: "telegram",
+      label: "@seniordev911",
+      link: "https://t.me/seniordev911"
+    },
+    // {
+    //   type: "phone",
+    //   label: "+65 xxxx-xxxx",
+    //   link: "tel:+65xxxxxxxx"
+    // }
   ]
 }
 
